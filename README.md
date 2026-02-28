@@ -1,4 +1,4 @@
-# Blu-Reserve Seat Allocation System
+#Automatic Seat Allocation System
 
 ## 1. Problem Recap (Why this exists)
 
