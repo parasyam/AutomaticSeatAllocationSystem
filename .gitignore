@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Maven build output
+AutomaticSeatAllocationSystem/target/
+AutomaticSeatAllocationSystem/.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Logs
+*.log
