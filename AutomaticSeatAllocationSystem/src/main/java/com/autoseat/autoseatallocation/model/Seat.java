@@ -25,7 +25,7 @@ public class Seat {
     public Seat(String seatNumber, boolean allocated, String allocatedTo) {
         this.seatNumber = seatNumber;
         this.allocated = allocated;
-        this.allocatedTo = allocatedTo;
+        
     }
 
    
@@ -61,15 +61,7 @@ public class Seat {
         this.allocatedTo = allocatedTo;
     }
 
-    @Override
-    public String toString() {
-        return "Seat{" +
-                "id=" + id +
-                ", seatNumber='" + seatNumber + '\'' +
-                ", allocated=" + allocated +
-                ", allocatedTo='" + allocatedTo + '\'' +
-                '}';
-    }
+   
 }
 
 
